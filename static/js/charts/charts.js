@@ -2,6 +2,10 @@
  * Created by danielsiker on 10/11/14.
  */
 
+// There is not much for me to code review on this project since it's mostly in cartodb
+// The project was supposed to include Django & Ajax to create a single page app. 
+// If you have the time you should try to think about how you could incorporate some features that
+// would involve the SF crime data but also make use of Django and a database.
 $(function () {
     $('#chart1').highcharts({
         chart: {
